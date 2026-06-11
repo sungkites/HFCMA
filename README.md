@@ -1,4 +1,4 @@
-﻿# HFCMA
+﻿# HFCMA:Hierarchical Fine-grained Cross-modal Alignment via Dynamic Granularity Discovery and Optimal Transport
 
 Implementation of **Hierarchical Fine-grained Cross-modal Alignment via Dynamic Granularity Discovery and Optimal Transport**.
 
